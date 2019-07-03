@@ -9,7 +9,7 @@ using MongoDB.Repository;
 using MongoDB.Utility;
 
 namespace MongoDB
-{ 
+{
     public class Startup
     {
         public Startup(IConfiguration configuration)
